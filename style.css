@@ -1,0 +1,30 @@
+body {	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(flight.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+
+.A{background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(flight1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.login-box{max-width:700px;
+float=none;
+margin: 25px auto;
+}
+
+.login-left{
+    background:rgba(211, 211, 211, 0.5);
+    padding:30px;
+}
+
+.login-right{
+    background=#fff;
+    padding:30px;
+}
+
+.login-center{background:rgba(211, 211, 211, 0.5);
+    padding:30px;
+
+}
